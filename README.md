@@ -65,6 +65,3 @@ Se utiliza TIM2 de la Nucleo para generar una señal cuadrada en el pin PA8 medi
 
 El tiempo de la señal se configura utilizando el valor ingresado por el usuario, sin emplear retardos bloqueantes.
 
-## Software utilizado
-
-- STM32CubeMX

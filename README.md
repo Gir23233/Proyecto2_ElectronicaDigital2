@@ -3,6 +3,8 @@
 Universidad del Valle de Guatemala  
 Curso: BE3029 - Electrónica Digital 2  
 Microcontroladores: STM32 NUCLEO-F446RE y ESP32 DevKit V1
+Christian Girón - 23233
+Kristen Ackerman - 23852
 
 ## Descripción del proyecto
 
